@@ -6,21 +6,4 @@ The application reads the PDF and splits the text into smaller chunks that can b
 
 The application uses Streamlit to create the GUI and Langchain to deal with the LLM.
 
-## Deployment Instruction
-
-- **Set Up Your Project Directory:** Create a directory for your project.
-  
-- **Create a Virtual Environment:** Set up a virtual environment to manage dependencies.
-  
-- **Install Required Packages:** Use pip to install the necessary packages.
-  
-- **Create a .env File:** Create a .env file in your project directory to store your OpenAI API key.
-  
-- **Run Your Application Locally**
-  
-- **Create a GitHub Repository:**
-    - Go to GitHub and create a new repository.
-    - Follow the instructions to initialize it with a README.
-      
-- **Push Your Code to GitHub**
 
